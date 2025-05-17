@@ -4,7 +4,7 @@
 
 Bem-vindo(a) ao repositório **Curso de Formação Tecnologia 4.0 em Inteligência Artificial**!
 
-Este curso tem como objetivo capacitar estudantes com os fundamentos teóricos e práticos da Inteligência Artificial (IA).
+Este curso tem como objetivo a capacitação com os fundamentos teóricos e práticos da Inteligência Artificial (IA).
 
 Neste repositório você encontrará:
 
